@@ -5,7 +5,8 @@
 
 <div align="center">
 
-  <h3><b>Bold Conference Capstone Project</b></h3>
+ <img src="./images/bold-conference-screen.png" alt="logo" width="500"  height="auto" />
+  <h2><b>Bold Conference Capstone Project</b></h2>
 <p>Wesbite of Bold Conference as my Capstone Project</p>
 </div>
 
